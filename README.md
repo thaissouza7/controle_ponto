@@ -13,6 +13,9 @@ serve para quando eu der npm start esse o nodemon rodar dentro da pasta
 
 <strong>npm install @mysql/xdevapi --save --save-exact  </strong>   <<= código alternativo pois não estava rodando
 
+no powershell como admin Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+
+
 
 
 
