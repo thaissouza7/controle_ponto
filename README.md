@@ -13,8 +13,9 @@ serve para quando eu der npm start esse o nodemon rodar dentro da pasta
 
 <strong>npm install @mysql/xdevapi --save --save-exact  </strong>   <<= código alternativo pois não estava rodando
 
-no powershell como admin Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
-"nodemon": "^2.0.21" ADICIONEI AS DEPENDENCIAS MANUALMENTE PQ NAO ESTAVA RODANDO EM OUTRA MAQUINA AQUI DE CASA, E ESSA FOI A SOLUÇÃO
+no powershell como admin Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine   
+
+"nodemon": "^2.0.21" ADICIONEI a DEPENDENCIAS MANUALMENTE PQ NAO ESTAVA RODANDO EM OUTRA MAQUINA AQUI DE CASA, E ESSA FOI A SOLUÇÃO
 ![image](https://user-images.githubusercontent.com/107569856/222876009-e307e6ae-a81c-49d4-81eb-27ef8b21af7f.png)
 
 
